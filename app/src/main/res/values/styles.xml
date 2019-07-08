@@ -7,5 +7,32 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="ItemBtn">
+        <item name="android:background">@color/blue_grey_500</item>
+        <item name="android:textColor">@color/white</item>
 
+    </style>
+    <style name="ItemTitle">
+        <item name="android:textSize">@dimen/d26</item>
+        <item name="android:textColor">@color/white</item>
+
+    </style>
+    <style name="ItemDescription">
+        <item name="android:textSize">@dimen/d18</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="DetailsTitle">
+        <item name="android:textSize">@dimen/d30</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="DetailsInfo">
+        <item name="android:textSize">@dimen/d26</item>
+        <item name="android:textColor">@color/blue_grey_500</item>
+        <item name="android:paddingBottom">@dimen/d16</item>
+    </style>
+    <style name="MaintenanceTitle">
+        <item name="android:textSize">@dimen/d40</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@color/blue_grey_500</item>
+    </style>
 </resources>

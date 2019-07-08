@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">PruebaNivelEcommerceFarm</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_book_title">Title book</string>
+    <string name="item_book_description">Description book</string>
+    <string name="btn_all">All Books</string>
+    <string name="btn_filter">Filter Books</string>
+    <string name="btn_search">Search</string>
+    <string name="isbn_details">ISBN:</string>
+    <string name="description_details">Description</string>
+    <string name="text_maintenance">Sorry¡ the App is in maintenance</string>
 </resources>
